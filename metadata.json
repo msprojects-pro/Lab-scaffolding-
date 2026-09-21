@@ -1,0 +1,6 @@
+{
+  "name": "LAB Scaffolding Ltd",
+  "description": "Professional scaffolding contractors serving Kent & the South East.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
